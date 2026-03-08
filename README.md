@@ -84,24 +84,9 @@ Optimize discount usage to protect profit margins.
 Focus on high-value customer segments.
 
 Project Structure
-customer-shopping-analysis
-│
-├── data
-│   └── shopping_data.csv
-│
-├── python
-│   └── data_cleaning.py
-│
-├── sql
-│   └── analysis_queries.sql
-│
-├── powerbi
-│   └── dashboard.pbix
-│
-├── dashboard
-│   └── dashboard_screenshot.png
-│
-└── README.md
+
+<img width="361" height="502" alt="image" src="https://github.com/user-attachments/assets/bd41a90a-c5e4-4045-b7a4-b8d4e3d56be6" />
+
 
 Skills Demonstrated:
 Data Cleaning
